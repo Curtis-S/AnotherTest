@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "7b257f0a3d0487c809f0d12d21a584eabcb7bda4cbe3b88532530604bca98f91"
+build_start_time: [1684357638, 513709000]
+build_end_time: [1684357638, 631457000]
+inputs:
+  "/Users/curtis.scott/Documents/TestAgainDanger/Sources/RecentTest/Stringify.swift": [1684355996, 593020092]

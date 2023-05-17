@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "fac803fa7b2ec3530f5a4ff1e0b4132a0ac8783fe602f0b54ba05d0f88a26822"
+build_start_time: [1684357632, 243399000]
+build_end_time: [1684357635, 84387000]
+inputs:
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/RequestKit/Sources/RequestKit/JSONPostRouter.swift": [1684356113, 509011855]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/RequestKit/Sources/RequestKit/RequestKitSession.swift": [1684356113, 509187148]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/RequestKit/Sources/RequestKit/Router.swift": [1684356113, 509285482]

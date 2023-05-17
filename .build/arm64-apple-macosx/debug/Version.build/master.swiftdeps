@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "c998ed76dcd5009f9d780542567f73da9208055c67763490e93dd59a3266d44d"
+build_start_time: [1684357729, 368815000]
+build_end_time: [1684357729, 588320000]
+inputs:
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/Version/Sources/Version+Codable.swift": [1684356113, 643341817]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/Version/Sources/Version+Comparable.swift": [1684356113, 643441984]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/Version/Sources/Version+Foundation.swift": [1684356113, 643527068]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/Version/Sources/Version+Range.swift": [1684356113, 643606402]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/Version/Sources/Version.swift": [1684356113, 643708903]

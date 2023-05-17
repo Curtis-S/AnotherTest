@@ -14,6 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B87DF1F52A157CAD006A488E /* RecentTest */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = RecentTest; sourceTree = "<group>"; };
 		B8B633972A156F4E00327482 /* TestAgainDanger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestAgainDanger.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8B6339A2A156F4E00327482 /* TestAgainDangerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestAgainDangerApp.swift; sourceTree = "<group>"; };
 		B8B6339C2A156F4E00327482 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -32,11 +33,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B87DF1F62A157CE7006A488E /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		B8B6338E2A156F4E00327482 = {
 			isa = PBXGroup;
 			children = (
+				B87DF1F52A157CAD006A488E /* RecentTest */,
 				B8B633992A156F4E00327482 /* TestAgainDanger */,
 				B8B633982A156F4E00327482 /* Products */,
+				B87DF1F62A157CE7006A488E /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -83,6 +93,8 @@
 			dependencies = (
 			);
 			name = TestAgainDanger;
+			packageProductDependencies = (
+			);
 			productName = TestAgainDanger;
 			productReference = B8B633972A156F4E00327482 /* TestAgainDanger.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +123,8 @@
 				Base,
 			);
 			mainGroup = B8B6338E2A156F4E00327482;
+			packageReferences = (
+			);
 			productRefGroup = B8B633982A156F4E00327482 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";

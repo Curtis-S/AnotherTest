@@ -1,0 +1,4 @@
+module Version {
+    header "/Users/curtis.scott/Documents/TestAgainDanger/.build/arm64-apple-macosx/debug/Version.build/Version-Swift.h"
+    requires objc
+}

@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "eecec674af315fa78eddee7d7be34774dbc7ce919c4a2edc5fa12df06adc5cff"
+build_start_time: [1684357729, 661042000]
+build_end_time: [1684357730, 288110000]
+inputs:
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/DangerDependenciesResolver/Data+Encoding.swift": [1684356114, 103568429]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/DangerDependenciesResolver/FileCreator.swift": [1684356114, 103661972]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/DangerDependenciesResolver/FileReader.swift": [1684356114, 103743472]
+  ? "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/DangerDependenciesResolver/InlineDependenciesFinder.swift"
+  : [1684356114, 103833931]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/DangerDependenciesResolver/Package.swift": [1684356114, 103924015]
+  ? "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/DangerDependenciesResolver/PackageDataProvider.swift"
+  : [1684356114, 104021724]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/DangerDependenciesResolver/PackageGenerator.swift": [1684356114, 104114933]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/DangerDependenciesResolver/PackageListMaker.swift": [1684356114, 104265643]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/DangerDependenciesResolver/PackageManager.swift": [1684356114, 104414477]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/DangerDependenciesResolver/Script.swift": [1684356114, 104567186]
+  ? "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/DangerDependenciesResolver/URL+RemoteRepository.swift"
+  : [1684356114, 104670854]

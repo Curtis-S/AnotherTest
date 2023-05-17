@@ -1,0 +1,4 @@
+module Logger {
+    header "/Users/curtis.scott/Documents/TestAgainDanger/.build/arm64-apple-macosx/debug/Logger.build/Logger-Swift.h"
+    requires objc
+}

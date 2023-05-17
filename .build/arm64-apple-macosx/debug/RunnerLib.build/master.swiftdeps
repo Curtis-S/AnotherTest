@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "b0c9426750afa32dcf07babaa1b7fd64dbfbe74aa32241f46a20eabbd3d9c639"
+build_start_time: [1684357729, 661270000]
+build_end_time: [1684357730, 278391000]
+inputs:
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/RunnerLib/CliArgs/CliArgs.swift": [1684356114, 107434998]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/RunnerLib/CliArgs/CliArgsParser.swift": [1684356114, 107529165]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/RunnerLib/CreateConfig.swift": [1684356114, 107640707]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/RunnerLib/DangerCommand.swift": [1684356114, 107738333]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/RunnerLib/DangerJSVersionFinder.swift": [1684356114, 107834834]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/RunnerLib/DangerSwiftOption.swift": [1684356114, 107923876]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/RunnerLib/DangerfileArgumentsPath.swift": [1684356114, 108013085]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/RunnerLib/Files Import/DangerFileGenerator.swift": [1684356114, 108166753]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/RunnerLib/Files Import/ImportsFinder.swift": [1684356114, 108273295]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/RunnerLib/GetDangerJSPath.swift": [1684356114, 108371796]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/RunnerLib/HelpMessagePresenter.swift": [1684356114, 108464505]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/RunnerLib/NSRegularExpression+FilesImport.swift": [1684356114, 108557963]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/RunnerLib/Runtime.swift": [1684356114, 108666673]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/RunnerLib/SPMDanger.swift": [1684356114, 108765632]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/RunnerLib/String+Path.swift": [1684356114, 108894133]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/RunnerLib/VersionChecker.swift": [1684356114, 109009467]

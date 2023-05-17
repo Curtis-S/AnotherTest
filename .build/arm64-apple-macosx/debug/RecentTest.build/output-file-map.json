@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/curtis.scott/Documents/TestAgainDanger/.build/arm64-apple-macosx/debug/RecentTest.build/master.swiftdeps"
+  },
+  "/Users/curtis.scott/Documents/TestAgainDanger/Sources/RecentTest/Stringify.swift": {
+    "dependencies": "/Users/curtis.scott/Documents/TestAgainDanger/.build/arm64-apple-macosx/debug/RecentTest.build/Stringify.d",
+    "object": "/Users/curtis.scott/Documents/TestAgainDanger/.build/arm64-apple-macosx/debug/RecentTest.build/Stringify.swift.o",
+    "swiftmodule": "/Users/curtis.scott/Documents/TestAgainDanger/.build/arm64-apple-macosx/debug/RecentTest.build/Stringify~partial.swiftmodule",
+    "swift-dependencies": "/Users/curtis.scott/Documents/TestAgainDanger/.build/arm64-apple-macosx/debug/RecentTest.build/Stringify.swiftdeps"
+  }
+}

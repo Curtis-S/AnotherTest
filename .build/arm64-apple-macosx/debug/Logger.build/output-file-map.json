@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/curtis.scott/Documents/TestAgainDanger/.build/arm64-apple-macosx/debug/Logger.build/master.swiftdeps"
+  },
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/Logger/Sources/Logger/Logger.swift": {
+    "dependencies": "/Users/curtis.scott/Documents/TestAgainDanger/.build/arm64-apple-macosx/debug/Logger.build/Logger.d",
+    "object": "/Users/curtis.scott/Documents/TestAgainDanger/.build/arm64-apple-macosx/debug/Logger.build/Logger.swift.o",
+    "swiftmodule": "/Users/curtis.scott/Documents/TestAgainDanger/.build/arm64-apple-macosx/debug/Logger.build/Logger~partial.swiftmodule",
+    "swift-dependencies": "/Users/curtis.scott/Documents/TestAgainDanger/.build/arm64-apple-macosx/debug/Logger.build/Logger.swiftdeps"
+  }
+}

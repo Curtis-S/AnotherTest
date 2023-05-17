@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/curtis.scott/Documents/TestAgainDanger/.build/arm64-apple-macosx/debug/DangerShellExecutor.build/master.swiftdeps"
+  },
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/DangerShellExecutor/ShellExecutor.swift": {
+    "dependencies": "/Users/curtis.scott/Documents/TestAgainDanger/.build/arm64-apple-macosx/debug/DangerShellExecutor.build/ShellExecutor.d",
+    "object": "/Users/curtis.scott/Documents/TestAgainDanger/.build/arm64-apple-macosx/debug/DangerShellExecutor.build/ShellExecutor.swift.o",
+    "swiftmodule": "/Users/curtis.scott/Documents/TestAgainDanger/.build/arm64-apple-macosx/debug/DangerShellExecutor.build/ShellExecutor~partial.swiftmodule",
+    "swift-dependencies": "/Users/curtis.scott/Documents/TestAgainDanger/.build/arm64-apple-macosx/debug/DangerShellExecutor.build/ShellExecutor.swiftdeps"
+  }
+}

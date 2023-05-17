@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "530032f87adfff8c369bbc07d058d14b7852a238704c8094668d9259e68bb6c4"
+build_start_time: [1684357730, 355358000]
+build_end_time: [1684357730, 605866000]
+inputs:
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/Runner/Commands/Edit.swift": [1684356114, 106821410]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/Runner/Commands/RunDangerJS.swift": [1684356114, 106919369]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/Runner/Commands/Runner.swift": [1684356114, 107038245]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/Runner/MarathonScriptManager.swift": [1684356114, 107131495]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/Runner/main.swift": [1684356114, 107222371]

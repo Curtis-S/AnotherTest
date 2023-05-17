@@ -1,0 +1,27 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "81604520faadb4f88a59fee7185c025d95b9411c33a82e84fe84db9925777c59"
+build_start_time: [1684357637, 314791000]
+build_end_time: [1684357638, 442519000]
+inputs:
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/Danger/BitBucketCloud.swift": [1684356114, 100826327]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/Danger/BitBucketMetadata.swift": [1684356114, 100935161]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/Danger/BitBucketServerDSL.swift": [1684356114, 101041787]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/Danger/Danger.swift": [1684356114, 101229163]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/Danger/DangerDSL.swift": [1684356114, 101334914]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/Danger/DangerResults.swift": [1684356114, 101436456]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/Danger/DangerUtils.swift": [1684356114, 101533540]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/Danger/Extensions/DateFormatterExtensions.swift": [1684356114, 101695750]
+  ? "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/Danger/Extensions/NSRegularExpressionExtensions.swift"
+  : [1684356114, 101796875]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/Danger/File.swift": [1684356114, 101889834]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/Danger/GitDSL.swift": [1684356114, 101985710]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/Danger/GitDiff.swift": [1684356114, 102111378]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/Danger/GitHubDSL.swift": [1684356114, 102226962]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/Danger/GitLabDSL.swift": [1684356114, 102376755]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/Danger/Plugins/SwiftLint/CurrentPathProvider.swift": [1684356114, 102647423]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/Danger/Plugins/SwiftLint/SwiftLint.swift": [1684356114, 102749507]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/Danger/Plugins/SwiftLint/SwiftLintViolation.swift": [1684356114, 103081801]
+  ? "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/Danger/Plugins/SwiftLint/SwiftlintReportDeleter.swift"
+  : [1684356114, 103188385]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/Danger/Report.swift": [1684356114, 103294427]
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/swift/Sources/Danger/Settings.swift": [1684356114, 103423762]

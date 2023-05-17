@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "09eab12eba958a54cbcbaaaae1ad1900f38f479efb51a11416805be850a62fb6"
+build_start_time: [1684357632, 243258000]
+build_end_time: [1684357635, 50489000]
+inputs:
+  "/Users/curtis.scott/Documents/TestAgainDanger/.build/checkouts/Logger/Sources/Logger/Logger.swift": [1684356113, 775860434]
