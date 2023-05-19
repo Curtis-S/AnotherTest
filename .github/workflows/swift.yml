@@ -20,7 +20,6 @@ jobs:
       working-directory: ./RecentTest
       run: swift build -v
     - name: Danger
-      working-directory: ./RecentTest
-      run: swift run danger-swift ci
+      run: ./RecentTest swift run danger-swift ci
       env: 
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
