@@ -22,4 +22,5 @@ jobs:
     - name: Danger
       working-directory: ./RecentTest
       run: danger-swift ci
-      env: GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      env: 
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
