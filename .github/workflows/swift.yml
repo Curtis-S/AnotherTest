@@ -20,6 +20,7 @@ jobs:
       working-directory: ./RecentTest
       run: swift build -v
     - name: Danger
+      working-directory: ./RecentTest
       run: |
         brew install danger/tap/danger-swift
         swift run danger-swift ci
