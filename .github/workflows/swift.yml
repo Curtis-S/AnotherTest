@@ -19,12 +19,6 @@ jobs:
     - name: Build
       working-directory: ./RecentTest
       run: swift build -v
-    - name: Danger
-      working-directory: ./RecentTest
-      run: danger-swift ci
+        danger-swift ci
       env: 
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    - name: DangerSecondTest
-      uses: danger/swift@3.16.0
-      env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
