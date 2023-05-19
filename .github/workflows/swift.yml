@@ -25,4 +25,4 @@ jobs:
         brew install danger/tap/danger-swift
         swift run danger-swift ci
       env: 
-        GITHUB_TOKEN: ${{ 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 }}
+        GITHUB_TOKEN: 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 
